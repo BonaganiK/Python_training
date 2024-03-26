@@ -1,8 +1,9 @@
+#List of Data types in Python 
 '''
-int (1,-1)
-boolean
-float
-complex
+int, float, string, boolean
+
+Dictionary, Tuple, List
+
 '''
 
 a=1
@@ -34,3 +35,4 @@ print(float(a))
 
 b=5.5
 print(int(b))
+
